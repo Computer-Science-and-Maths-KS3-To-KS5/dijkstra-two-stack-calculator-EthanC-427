@@ -12,4 +12,11 @@ After the algorithm completes, the result of the evaluation will be the only ite
 ## Objectives for the solution
 1. The program should be able to accept the input equation after a prompt for user input
 2. The program should correctly evaluate the equation
-3. The program should display the result of the evaluation
+    1. The program should support the following operations:
+        1. Add (+)
+        2. Subtract (-)
+        3. Multiply (*)
+        4. Divide (/)
+    2. The program should ignore left brackets and spaces
+    3. The program should perform an operation every time a right bracket is reached
+4. The program should display the result of the evaluation
