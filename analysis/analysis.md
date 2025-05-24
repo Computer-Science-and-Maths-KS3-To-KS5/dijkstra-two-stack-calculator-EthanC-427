@@ -19,4 +19,4 @@ After the algorithm completes, the result of the evaluation will be the only ite
         4. Divide (/)
     2. The program should ignore left brackets and spaces
     3. The program should perform an operation every time a right bracket is reached
-4. The program should display the result of the evaluation
+4. The program should display the result of the evaluation as a real number
