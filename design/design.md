@@ -7,6 +7,7 @@ This has been chosen for the following reasons:
 
 ## Pseudocode
 ```
+Input the equation
 Instantiate operator stack and operand stack
 
 For each character in the equation
